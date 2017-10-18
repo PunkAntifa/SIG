@@ -1,0 +1,111 @@
+{
+	"curriculum": [{
+		"levels": 6,
+		"dsc_curriculum": "DOCTORADO EN DIRECCION DE EMPRESAS",
+		"id_curriculum": 260,
+		"modality": "trimestre",
+		"academic_degree": "DOCTORADO ACADÉMICO",
+		"first_level": 1,
+		"courses": [{
+			"id_course": "DD1103",
+			"name": "fundamentos metodologicos de la investigacion",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1101",
+			"level": 1
+		}, {
+			"id_course": "DD1104",
+			"name": "metodologia cualitativa",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1102",
+			"level": 1
+		}, {
+			"id_course": "DD1203",
+			"name": "metodologia cuantitativa",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1201",
+			"level": 2
+		}, {
+			"id_course": "DD1204",
+			"name": "tecnicas estadisticas avanzadas",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1202",
+			"level": 2
+		}, {
+			"id_course": "DD1303",
+			"name": "administracion, estrategia y alianzas",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1301",
+			"level": 3
+		}, {
+			"id_course": "DD1304",
+			"name": "gestion de la innovacion y conocimiento",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1302",
+			"level": 3
+		}, {
+			"id_course": "DD1403",
+			"name": "estrategia de la empresa internacional",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1401",
+			"level": 4
+		}, {
+			"id_course": "DD1404",
+			"name": "gestion del talento humano",
+			"credits": 3,
+			"hours": 14,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1402",
+			"level": 4
+		}, {
+			"id_course": "DD1502",
+			"name": "propuesta de tesis",
+			"credits": 16,
+			"hours": 15,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1501",
+			"level": 5
+		}, {
+			"id_course": "DD1602",
+			"name": "tesis doctoral",
+			"credits": 30,
+			"hours": 14,
+			"requirements": "DD1502",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "DD1601",
+			"level": 6
+		}]
+	}]
+}
